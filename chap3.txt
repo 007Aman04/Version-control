@@ -1,1 +1,1 @@
-This is the first version of the third chapter.
+This is a second version of third chapter.
